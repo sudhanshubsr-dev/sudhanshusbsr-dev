@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # SUDHANSHU SHARMA
 
-## Full-Stack Web Developer
+## Full-Stack Developer
 
 Passionate about creating seamless and impactful digital experiences through code.
 
