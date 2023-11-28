@@ -32,4 +32,4 @@ Passionate about creating seamless and impactful digital experiences through cod
 
 - **Email:** sudhanshubsr.dev@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sudhanshubsr-dev/)
-- **GitHub:** [GitHub Profile](https://github.com/sudhanshusharma-dev/)
+- **LeetCode:** [LeetCode Profile](https://leetcode.com/BinaryVision/)
