@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# SUDHANSHU SHARMA
+
+## Full-Stack Web Developer
+
+Passionate about creating seamless and impactful digital experiences through code.
+
+### Skills
+
+- **Languages:** HTML, CSS, JavaScript, C++, Python
+- **Frameworks:** React, NodeJS
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git
+
+### Contact
+
+- **Email:** sudhanshubsr.dev@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sudhanshubsr-dev/)
+- **GitHub:** [GitHub Profile](https://github.com/sudhanshusharma-dev/)
